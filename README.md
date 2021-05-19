@@ -7,7 +7,7 @@
 ## around the world
 
 # Motivation
-## Rather than using two different app to know about the latest
+#### Rather than using two different app to know about the latest
 ## trend(Channel feature) and real-time messaging, I intend to aggregate
 ## and display them all at once.
 
