@@ -29,7 +29,6 @@ and display them all at once.
 • Firebase Cloud Messaging
 • Firebase users Authentication
 
-<img width="1110" alt="Screen Shot 2021-05-19 at 11 19 20 AM" src="https://user-images.githubusercontent.com/17905933/118895715-b25dc780-b8d4-11eb-816c-76b1a4dff281.png">
 
 
 
